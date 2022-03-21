@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/twitter-quotes/static/css/main.073c9b0a.css",
+    "main.js": "/twitter-quotes/static/js/main.9fc12fa8.js",
+    "static/js/787.98639b62.chunk.js": "/twitter-quotes/static/js/787.98639b62.chunk.js",
+    "static/media/logo.svg": "/twitter-quotes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/twitter-quotes/index.html",
+    "main.073c9b0a.css.map": "/twitter-quotes/static/css/main.073c9b0a.css.map",
+    "main.9fc12fa8.js.map": "/twitter-quotes/static/js/main.9fc12fa8.js.map",
+    "787.98639b62.chunk.js.map": "/twitter-quotes/static/js/787.98639b62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9fc12fa8.js"
+  ]
+}
